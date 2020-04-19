@@ -4,7 +4,7 @@ Created on Sat Mar 14 12:50:27 2020
 
 @author: manish
 """
-#while loop
+
 #for loop
 a=56
 #while a>50:
